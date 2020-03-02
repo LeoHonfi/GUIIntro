@@ -138,4 +138,4 @@ public class Taschenrechner {
 	public Text getErgebnis() {
 		return ergebnis;
 	}
-}
+}//
